@@ -7,3 +7,8 @@ class Day {
         this.weekday = weekday;
     }
 }
+
+class Month {
+    String name;
+    
+    
