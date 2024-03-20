@@ -1,0 +1,9 @@
+class Day {
+    int day;
+    String weekday;
+
+    Day(int day, String weekday) {
+        this.day = day;
+        this.weekday = weekday;
+    }
+}
